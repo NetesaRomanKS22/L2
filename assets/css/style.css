@@ -1,0 +1,21 @@
+.error{
+    display: flex;
+    color: red;
+}
+
+.name{
+    display: flex;
+    color: rgb(255, 255, 255);
+}
+
+.TopHeader{
+    background-color: aqua;
+}
+
+.TopHeader .nav-wrapper{
+    background-color: aqua;
+}
+
+.TopHeader .brand-logo{
+    background-color: aqua;
+}
